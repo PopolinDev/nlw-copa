@@ -24,14 +24,14 @@ createCard(
   "20/11",
   "domingo",
   createGame("qatar", "13:00", "ecuador")
-)
+)+
 createCard(
   "21/11",
   "segunda",
   createGame("england", "10:00", "iran") +
     createGame("senegal", "13:00", "netherlands") +
-    createGame("sunitedstates", "16:00", "netherlands")
-)
+    createGame("unitedstates", "16:00", "netherlands")
+)+
 createCard(
   "24/11",
   "quinta",
